@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a passionate developer who loves turning ide
 👩🏻‍💻 Software Engineer | Recent graduate building projects, expanding my skills, and looking for the right opportunity to make an impact.<br/>
 👩🏻‍🎓 Studied Computer Science at CUNY Brooklyn College<br/>
 
-[![Sabina's github stats](https://github-readme-stats.vercel.app/api?username=sabinaismailova&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https:/github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabinaismailova&hide_progress=true&theme=tokyonight)](https:/github.com/anuraghazra/github-readme-stats)
+![Sabina's github stats](https://github-readme-stats.vercel.app/api?username=sabinaismailova&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabinaismailova&hide_progress=true&theme=tokyonight)
 
 ### Let's connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabinaismailova/)
