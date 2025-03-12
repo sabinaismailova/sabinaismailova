@@ -8,9 +8,6 @@ Welcome to my GitHub profile! I’m a passionate developer who loves turning ide
 
 ![Sabina's github stats](https://github-readme-stats.vercel.app/api?username=sabinaismailova&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabinaismailova&hide_progress=true&theme=tokyonight)
 
-### Let's connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabinaismailova/)
-
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,3 +24,6 @@ Welcome to my GitHub profile! I’m a passionate developer who loves turning ide
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+
+## 📫 Let's connect
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabinaismailova/)
